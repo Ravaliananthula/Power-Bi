@@ -14,7 +14,7 @@ This project demonstrates different types of bar and column charts in Power BI.
 - Compare multiple categories
 - Long category names
 
-![Clustered Bar Chart](./Download/Powerbi6thapril/Practise/clustered-bar.JPG)
+![Clustered Bar Chart](./Class1PB/Clustured Bar.JPG)
 
 ---
 
