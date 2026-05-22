@@ -55,3 +55,23 @@ This project demonstrates different types of bar and column charts in Power BI.
 <img width="1122" height="698" alt="100%Stacked Column" src="https://github.com/user-attachments/assets/55e46639-3243-4ab4-a249-d73e6b7195c4" />
 
 ---
+
+### 🔹 Line Chart
+**Definition:** Vertical percentage distribution.
+
+
+<img width="1104" height="679" alt="image" src="https://github.com/user-attachments/assets/b90ad2cf-5bce-40c7-a863-d25592dd6efe" />
+
+---
+### 🔹 Area Chart
+**Definition:** Vertical percentage distribution.
+
+
+<img width="1104" height="679" alt="image" src="https://github.com/user-attachments/assets/b90ad2cf-5bce-40c7-a863-d25592dd6efe" />
+
+---
+
+
+
+
+
