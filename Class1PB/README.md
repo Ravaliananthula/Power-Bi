@@ -18,9 +18,6 @@ This project demonstrates different types of bar and column charts in Power BI.
 ### 🔹 Clustered Column Chart
 **Definition:** Displays vertical bars for comparison.
 
-**When to Use:**
-- Compare values across categories
-- Show trends
 
 <img width="1117" height="691" alt="Clustured Column" src="https://github.com/user-attachments/assets/0192fd36-3549-4760-b3b5-cd1bf2a0f306" />
 
