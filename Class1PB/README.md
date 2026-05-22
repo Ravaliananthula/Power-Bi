@@ -71,6 +71,34 @@ This project demonstrates different types of bar and column charts in Power BI.
 
 
 ---
+### 🔹 Stacked Area Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="956" height="664" alt="image" src="https://github.com/user-attachments/assets/f242415a-bea7-476a-a552-d56a98212ac2" />
+
+
+---
+### 🔹 100%Stacked Area Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="1035" height="677" alt="image" src="https://github.com/user-attachments/assets/1c03e047-f366-4fc3-b8a0-f572fda7c344" />
+
+
+---
+### 🔹 Line and Stacked Column Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="998" height="650" alt="image" src="https://github.com/user-attachments/assets/3452865d-1da9-43bd-850b-3a4ebe7ad7f2" />
+
+
+---
+### 🔹 Line and Clustered Column Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="806" height="483" alt="image" src="https://github.com/user-attachments/assets/d2211ee8-f58e-491b-baf0-c2327655926e" />
+
+
+---
 
 
 
