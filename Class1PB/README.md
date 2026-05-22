@@ -8,31 +8,29 @@ The main objective of this project is to understand how different Power BI visua
 ## Visualizations Included
 
 This project includes the following Power BI charts and visuals:
-Clustered Bar Chart
-Clustered Column Chart
-Stacked Bar Chart
-Stacked Column Chart
-100% Stacked Bar Chart
-100% Stacked Column Chart
-Line Chart
-Area Chart
-Stacked Area Chart
-100% Stacked Area Chart
-Line and Stacked Column Chart
-Line and Clustered Column Chart
-Table
-Matrix
-Ribbon Chart
-Funnel Chart
-Pie Chart
-Donut Chart
-Treemap
-Normal Map
-Filled Map
+- Clustered Bar Chart
+- Clustered Column Chart
+- Stacked Bar Chart
+- Stacked Column Chart
+- 100% Stacked Bar Chart
+- 100% Stacked Column Chart
+- Line Chart
+- Area Chart
+- Stacked Area Chart
+- 100% Stacked Area Chart
+- Line and Stacked Column Chart
+- Line and Clustered Column Chart
+- Table
+- Matrix
+- Ribbon Chart
+- Funnel Chart
+- Pie Chart
+- Donut Chart
+- Treemap
+- Normal Map
+- Filled Map
 
 ---
-
-## 📊 Types of Charts
 
 ### 🔹 Clustered Bar Chart
 **Definition:** Displays data using horizontal bars side-by-side.
