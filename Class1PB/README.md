@@ -113,7 +113,60 @@ This project demonstrates different types of bar and column charts in Power BI.
 
 ---
 
+### 🔹 Ribbon Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="941" height="602" alt="image" src="https://github.com/user-attachments/assets/b1205d75-46c8-4cad-ad92-92fe11263f7d" />
 
 
+---
+### 🔹 Ribbon Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="961" height="675" alt="image" src="https://github.com/user-attachments/assets/2e0a82e2-b6a2-4ca8-8ddc-80d9a20448c3" />
 
 
+---
+
+### 🔹 Funnel Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="961" height="675" alt="image" src="https://github.com/user-attachments/assets/2e0a82e2-b6a2-4ca8-8ddc-80d9a20448c3" />
+
+
+---
+### 🔹 Pie Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="955" height="615" alt="image" src="https://github.com/user-attachments/assets/3aaeb85b-d1b9-4c68-98d9-348f9c6b882d" />
+
+
+---
+### 🔹 Donut Chart
+**Definition:** Vertical percentage distribution.
+
+<img width="820" height="507" alt="image" src="https://github.com/user-attachments/assets/e9bbb390-9481-41e3-b7d7-9353aaf97b43" />
+
+
+---
+### 🔹  Tree Map
+**Definition:** Vertical percentage distribution.
+
+<img width="839" height="523" alt="image" src="https://github.com/user-attachments/assets/473e39a8-bf96-427b-95ec-636570582718" />
+
+
+---
+### 🔹  Normal Map
+**Definition:** Vertical percentage distribution.
+
+<img width="844" height="543" alt="image" src="https://github.com/user-attachments/assets/be7ac97d-6891-43fc-be48-4cc1f3b68f14" />
+
+
+---
+### 🔹  Filled Map
+**Definition:** Vertical percentage distribution.
+
+<img width="670" height="579" alt="image" src="https://github.com/user-attachments/assets/8ecaea8b-780e-4eb6-9965-c6a546a594a8" />
+
+
+---
