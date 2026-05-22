@@ -90,12 +90,25 @@ This project demonstrates different types of bar and column charts in Power BI.
 
 <img width="998" height="650" alt="image" src="https://github.com/user-attachments/assets/3452865d-1da9-43bd-850b-3a4ebe7ad7f2" />
 
-
 ---
 ### 🔹 Line and Clustered Column Chart
 **Definition:** Vertical percentage distribution.
 
 <img width="806" height="483" alt="image" src="https://github.com/user-attachments/assets/d2211ee8-f58e-491b-baf0-c2327655926e" />
+
+
+---
+### 🔹 Table
+**Definition:** Vertical percentage distribution.
+
+<img width="581" height="466" alt="image" src="https://github.com/user-attachments/assets/9cd5e14f-9513-497d-91c4-01cb3e8e6f1f" />
+
+
+---
+### 🔹 Matrix
+**Definition:** Vertical percentage distribution.
+
+<img width="811" height="416" alt="image" src="https://github.com/user-attachments/assets/90c67bbb-8dc3-4cff-be42-759c0e93f719" />
 
 
 ---
