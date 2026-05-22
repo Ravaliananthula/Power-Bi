@@ -67,7 +67,8 @@ This project demonstrates different types of bar and column charts in Power BI.
 **Definition:** Vertical percentage distribution.
 
 
-<img width="1104" height="679" alt="image" src="https://github.com/user-attachments/assets/b90ad2cf-5bce-40c7-a863-d25592dd6efe" />
+<img width="1030" height="613" alt="image" src="https://github.com/user-attachments/assets/fe9f6397-8e2f-47e2-a332-d02246ee878a" />
+
 
 ---
 
