@@ -166,7 +166,8 @@ This project demonstrates different types of bar and column charts in Power BI.
 ### 🔹  Filled Map
 **Definition:** Vertical percentage distribution.
 
-<img width="670" height="579" alt="image" src="https://github.com/user-attachments/assets/8ecaea8b-780e-4eb6-9965-c6a546a594a8" />
+<img width="679" height="570" alt="image" src="https://github.com/user-attachments/assets/c1a55c68-f7ee-41d6-83bf-806a77ba8931" />
+
 
 
 ---
