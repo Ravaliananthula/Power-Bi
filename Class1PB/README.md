@@ -1,7 +1,34 @@
 # 📊 Power BI Charts – Bar & Column Visualizations
 
 ## 📌 Overview
-This project demonstrates different types of bar and column charts in Power BI.
+This project demonstrates various data visualizations created in Power BI using the popular Superstore dataset. The dataset contains retail business information such as sales, profit, customers, products, categories, and regions.
+
+The main objective of this project is to understand how different Power BI visuals can be used to analyze business performance, identify trends, and generate meaningful insights.
+
+## Visualizations Included
+
+This project includes the following Power BI charts and visuals:
+Clustered Bar Chart
+Clustered Column Chart
+Stacked Bar Chart
+Stacked Column Chart
+100% Stacked Bar Chart
+100% Stacked Column Chart
+Line Chart
+Area Chart
+Stacked Area Chart
+100% Stacked Area Chart
+Line and Stacked Column Chart
+Line and Clustered Column Chart
+Table
+Matrix
+Ribbon Chart
+Funnel Chart
+Pie Chart
+Donut Chart
+Treemap
+Normal Map
+Filled Map
 
 ---
 
