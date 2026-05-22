@@ -35,8 +35,6 @@ This project demonstrates different types of bar and column charts in Power BI.
 ### 🔹 Stacked Column Chart
 **Definition:** Vertical stacked representation.
 
-**When to Use:**
-- Track composition over time
 
 <img width="1167" height="723" alt="Stacked Column" src="https://github.com/user-attachments/assets/08c9a6e7-47c2-40fa-b0a6-a3b458c216e5" />
 
